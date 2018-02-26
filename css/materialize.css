@@ -2259,7 +2259,7 @@ html {
 /**
  * Remove default margin.
  */
-body {
+body {background-color: #d3d3d3;
   margin: 0;
 }
 
@@ -2325,7 +2325,7 @@ template {
  * Remove the gray background color from active links in IE 10.
  */
 a {
-  background-color: transparent;
+  background-color: light-;
 }
 
 /**
@@ -6777,7 +6777,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .side-nav .collapsible-body li.active,
 .side-nav.fixed .collapsible-body li.active {
-  background-color: #ee6e73;
+  background-color: #d3d3d3;
 }
 
 .side-nav .collapsible-body li.active a,
